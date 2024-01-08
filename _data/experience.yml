@@ -1,19 +1,14 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# software engineer
+- company: QMH Technologies
+  position: Backend Engineer (Team Lead)
+  duration: June, 2022 &mdash; Present
+  summary: As a seasoned backend leader, I championed numerous projects, showcasing expertise in JavaScript and diverse technologies like NodeJS, MongoDB, AWS, and Docker. With a foundation in software architecture, database design, and network security, my competencies extend to fostering team collaboration, demonstrating adaptability, and consistently delivering high-quality solutions through effective problem-solving and critical thinking.<ul class="resume-item-list"><li><b>Performance Optimization</b></li><ul class="resume-item-list"><li>Designed, developed, deployed, and maintained various NodeJS applications, achieving a 10-30% performance boost.</li><li>Minimized downtime and enhanced customer satisfaction through strategic enhancements.</li></ul><li><b>Codebase Refactoring and Restructuring</b></li><ul class="resume-item-list"><li>Led continuous efforts in codebase refactoring, establishing a more modular and maintainable structure.</li><li>Achieved a 60% reduction in fix time, enhancing system reliability.</li></ul><li><b>Project Highlight</b></li><ul class="resume-item-list"><li><b>Dispatch System:</b> Managed and optimized a resilient dispatch system, improving efficiency and reducing turnaround time.</li><li><b>E-commerce Platform (MaruDerm):</b> Played a key role in the design and development of an e-commerce platform, ensuring seamless user experiences.</li><li><b>CRM (4xHub):</b>  Contributed to the creation and maintenance of a Customer Relationship Management (CRM) system, enhancing client interactions.</li><li><b>E-Wallet (The Payfirm):</b> uccessfully implemented and maintained an E-Wallet solution, catering to secure and efficient financial transactions.</li></ul>
 
-# Director of Digital Stratgy
+# software engineer
 - company: United Nations Human Rights Council
   position: Director of Digital Strategy
   duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: As a software developer at AKSA-SDS, I spearheaded transformative projects in telecom. Introduced a pivotal Voice Notes feature, reducing call response times by 20% and enhancing user communication by 25%. Innovated a Virtual Number System, cutting setup time by 25% and boosting satisfaction by 20%. Led the development of a Dual Number System, achieving a 25% improvement in user flexibility. My solutions drove substantial engagement surges, contributing significantly to AKSA-SDS's success.<ul class="resume-item-list"><li><b>Voice Notes Integration</b></li><ul class="resume-item-list"><li>Integrated voice notes during peak periods, reducing call response times by 20% and elevating the user communication experience by 25%.</ul><li><b>Virtual Number System</b></li><ul class="resume-item-list"><li>Innovated a Virtual Number System, managing two numbers on a single SIM card, reducing user setup time by 25%, and increasing user satisfaction by 20%.</li><li><b>Dual Number Implementation</b></li><ul class="resume-item-list">Spearheaded the development of a seamless Dual Number System, achieving a 25% improvement in user flexibility and enhancing satisfaction by 20%.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

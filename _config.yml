@@ -14,16 +14,16 @@ resume_name:                    "Shaheer Zeb Khan"
 resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "shaheerzeb1@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+923000920039"
+resume_contact_address:         "Timergara, Dir (L), Khyber Pakhtunkhwa, Pakistan"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Timergara, Dir (L), Khyber Pakhtunkhwa, Pakistan • +923000920039 • shaheerzeb1@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>With a solid foundation and three years of experience as a Backend professional, I have distinguished myself by creating scalable and robust applications powered by contemporary frameworks. I enlisted perpetual education as a top priority to stay conversant with the rapidly transforming technological landscape. My aptitude for team collaboration has particularly proven effective when working within cross-functional teams. Having gained exceptional expertise in all components of software development, my specialty lies in ideating and implementing high-impact, innovative solutions that address intricate challenges. Now, I am enthusiastic about the prospect to bring my skills, expertise, and innovative mindset to contribute to your team's exciting journey.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_github_url:            "https://github.com/jglovier/resume-template"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/shaheer-zeb-khan"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
