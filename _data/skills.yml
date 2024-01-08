@@ -1,12 +1,10 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: <ul class="resume-item-list"><li><b>Programming Skills:</b> JavaScript</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: <ul class="resume-item-list"><li><b>TECHNOLOGIES:</b> NodeJS, Express.js, TypeScript, MongoDB, MySQL, PostgreSQL, Redis, AWS S3, YAML, Kubernetes, Jenkins, Rancher, Grafana, Prometheus, Elastic Search, GRPC, Apache Kafka, Min.io, Jira, Docker, HTML, CSS, CI/CD, AWS Lambda, OAuth2, AWS Cloud Front, Stripe/PayPal, Swagger, Postman, NVM, NPM, Git</li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: <ul class="resume-item-list"><li><b>CONCEPTS:</b> Object-Oriented Programming (OOP), RDBMS, Microservices, Rest APIs, Sockets Programming, Data Streaming, Code Validation, Code Versioning, Code Reviews, Operating Systems, Web Applications, Clean Code, Design Patterns, W3C Standards, Adminer, Xampp, Software Architecture, Database Design, Algorithm Design and Analysis, Data Encryption, Network Security</li></ul>
+
+- skill: <ul class="resume-item-list"><li><b>SOFT SKILLS:</b> Leadership, Problem Solving, Adaptability, Team Collaboration, Time Management, Critical Thinking, Creativity, Attention to Detail, Empathy, Conflict Resolution, Continuous Learning, Communication, Idea Brainstorming, Technical Analysis, Open-Mindedness </li></ul>
+
+- skill: <ul class="resume-item-list"><li><b>ADDITIONAL SKILLS:</b> Microsoft Office 365, IT Support, Networking, Adobe Photoshop</li></ul>

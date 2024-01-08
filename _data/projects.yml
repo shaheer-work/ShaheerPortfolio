@@ -1,16 +1,26 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+- project: QMH Distpatch
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2022 &mdash; Present
+  url: "https://www.qmhtech.co.uk/"
+  description: The QMH Business System is the backbone of QMH Technologies' operations, replacing third-party applications with a bespoke, modern solution. This in-house system optimizes processes, from project management to resource allocation, fostering efficiency and informed decision-making. The strategic shift has not only ensured scalability and flexibility but has also positioned QMH for sustained growth and success.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: E-commerce Platform | MaruDerm
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  duration: 2023 &mdash; 2023
+  url: "https://www.maruderm.com/"
+  description: Transforming the online retail experience for a Turkish product company, MaruDerm's E-commerce Platform ensures efficiency in product sales. With a focus on responsiveness and security, the platform enhances the overall user experience, establishing MaruDerm as a reliable online shopping destination.
+
+- project: CRM | 4xHub
+  role: Backend Team Leader
+  duration: 2022 &mdash; 2023
+  url: "https://4xhub.com/"
+  description: In the financial trading domain, the 4xHub CRM redefines user management for their trading website. Designed for efficiency, this system seamlessly enhances user interactions and operational processes, reinforcing 4xHub's commitment to excellence in financial trading.
+
+- project: E-Wallet | The Payfirm
+  role: Backend Team Leader
+  duration: 2022 &mdash; 2023
+  url: "https://thepayfirm.com/"
+  description: The Payfirm, an Electronic Money Institution, provides user-centric payment solutions for businesses and individuals. With services including virtual accounts, account-to-account payments, card issuing, foreign exchange, cross-border payments, payment gateway, and merchant services, The Payfirm's E-Wallet project stands as a robust and accessible financial solution.
+
